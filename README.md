@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Bruno Bandeira! 👋
 
-<!--
-**obrunobandeira/obrunobandeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/-@obrunobandeira-%23181717?style=flat-square&logo=github)](https://github.com/obrunobandeira)
+[![](https://img.shields.io/badge/-bbandeira-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bbandeira/)
 
-Here are some ideas to get you started:
+I'm a seasoned software developer with more 7 years of experience in Full Stack development, specializing in designing scalable distributed systems, microservices. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+- LinkedIn: [Bruno Bandeira](https://www.linkedin.com/in/bbandeira)
+- Email: [Bruno Bandeira](mailto:sbandeira07@gmail.com)
+---
+### ⚡ GitHub Stats:
+![Behzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=obrunobandeira&show_icons=true&theme=radical)
+![Behzad's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=obrunobandeira&show_icons=true&theme=radical)
