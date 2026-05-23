@@ -1,10 +1,10 @@
 # Olá, eu sou o Bruno! 👋
 
-Como desenvolvedor focado em engenharia de backend, sou especialista em construir sistemas resilientes, altamente escaláveis e preparados para suportar grande volume de tráfego. Minha rotina envolve desenhar e otimizar APIs de grande porte utilizando ecossistemas modernos e infraestrutura em nuvem híbrida/multi-cloud.
+Desenvolvedor focado em backend, construo sistemas altamente escaláveis e preparados para suportar grande volume de tráfego. Minha rotina envolve desenhar e otimizar APIs de grande porte utilizando ecossistemas modernos e infraestrutura em nuvem híbrida/multi-cloud.
 
 ---
 
-### 💻 No que sou focado no dia a dia:
+### No que sou focado no dia a dia:
 
 *   **Arquiteturas Robustas:** Desenvolvimento baseado em Clean Architecture, Domain-Driven Design (DDD) e microserviços orientados a eventos.
 *   **Alta Disponibilidade:** Criação de APIs RESTful e gRPC projetadas para cenários de alta concorrência e baixa latência.
@@ -13,7 +13,7 @@ Como desenvolvedor focado em engenharia de backend, sou especialista em construi
 
 ---
 
-### 🛠️ Stack Tecnológica
+### Stack Tecnológica
 
 | Categoria | Tecnologias |
 | :--- | :--- |
@@ -25,22 +25,17 @@ Como desenvolvedor focado em engenharia de backend, sou especialista em construi
 
 ---
 
-### 🚀 Nuvem & Ecossistemas
-
-#### 🟢 Node.js 
+#### Node.js 
 Desenvolvimento Ágil e assíncrono focado em I/O intensivo. Criação de microsserviços leves, gateways de API e workers eficientes utilizando TypeScript para garantir tipagem e segurança em ambientes corporativos.
 
-#### 🔵 C# / .NET
+#### C# / .NET
 Sistemas robustos de nível empresarial. Uso do poder do ecossistema .NET para APIs de alta performance, processamento paralelo seguro e integrações complexas com regras de negócio críticas.
 
-#### ☁️ Azure & AWS
+#### Azure & AWS
 Do design à produção. Experiência em arquiteturas Serverless, gerenciamento de filas e tópicos para comunicação assíncrona, além de estratégias de containerização e escalabilidade automática para mitigar picos de acesso.
 
 ---
 
 ### 📫 Como me encontrar:
 
-*   **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/bbandeira)
-
----
-*✨ "Construindo hoje as estruturas que aguentam o tráfego de amanhã."*
+*   **LinkedIn:** [linkedin.com/in/bbandeira](https://linkedin.com/in/bbandeira)
